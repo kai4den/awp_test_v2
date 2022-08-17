@@ -7,7 +7,7 @@ const path = require("path")
 const fetch = require("node-fetch")
 const { parse } = require('csv-parse/sync');
 
-const SPREADSHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRtxqgKCZGMNT9GEzJuExmeugE7Ef_LuKGmV4hKlylxzOiVX0VhlB24S68_XR_BUOBuEjqSLAML3z5s/pub?output=csv';
+const SPREADSHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR5j_XjoD6AH3zUvxzKoPIckBBcZC7VC_Ak1GOuHZoGvm64-Ltcysq-jUg1eWkueZPPCPpR4h_GMlUh/pub?output=csv';
 const SHEETS = [
   {
     'fileName': 'data.csv',
