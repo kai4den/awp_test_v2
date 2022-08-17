@@ -1,2 +1,2 @@
-title,description,form_url,logo_image_url,background_image_url,primary_color,orderby
-日本の世界遺産マップ powered by Geolonia PWAマップ,Geolonia PWAマップを利用して作成した日本の世界遺産マップです。,,https://geolonia.github.io/world-heritage-map/icon-world-heritage.svg,https://geolonia.github.io/world-heritage-map/background.jpg,#C33,distance
+title,description,form_url,logo_image_url,background_image_url,primary_color,orderby,id,repository,API
+日本の世界遺産マップ powered by Geolonia PWAマップ,Geolonia PWAマップを利用して作成した日本の世界遺産マップです。,,https://geolonia.github.io/world-heritage-map/icon-world-heritage.svg,https://geolonia.github.io/world-heritage-map/background.jpg,#C33,distance,kai4den,awp_test_v2,17111418d485464e946a0cdc6e926dcf
