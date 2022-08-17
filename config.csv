@@ -1,3 +1,2 @@
 title,description,form_url,logo_image_url,background_image_url,primary_color,orderby
-Geolonia PWAマップ,"Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる
-「Geolonia PWAマップ」",,https://geoloniamaps.github.io/pwamap/icon-pwamap.svg,https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png,#d2691e,distance
+日本の世界遺産マップ powered by Geolonia PWAマップ,Geolonia PWAマップを利用して作成した日本の世界遺産マップです。,,https://geolonia.github.io/world-heritage-map/icon-world-heritage.svg,https://geolonia.github.io/world-heritage-map/background.jpg,#C33,distance
