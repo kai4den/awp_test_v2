@@ -1,9 +1,9 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
+  "title": "日本の世界遺産マップ powered by Geolonia PWAマップ",
+  "description": "Geolonia PWAマップを利用して作成した日本の世界遺産マップです。",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
-  "primary_color": "#d2691e",
+  "logo_image_url": "https://geolonia.github.io/world-heritage-map/icon-world-heritage.svg",
+  "background_image_url": "https://geolonia.github.io/world-heritage-map/background.jpg",
+  "primary_color": "#C33",
   "orderby": "distance"
 }
